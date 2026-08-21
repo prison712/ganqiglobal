@@ -1,0 +1,44 @@
+
+> ganqi-group-site@0.1.0 dev
+> vite --host 127.0.0.1
+
+
+  VITE v8.0.13  ready in 378 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  press h + enter to show help
+11:28:26 [vite] (client) hmr update /src/styles.css
+11:29:26 [vite] (client) hmr update /src/styles.css, /src/components/GroupFooter.jsx
+11:29:26 [vite] (client) hmr update /src/pages/CompanyPage.jsx, /src/styles.css
+11:30:07 [vite] (client) hmr update /src/styles.css
+11:30:08 [vite] (client) hmr update /src/styles.css
+11:30:56 [vite] (client) hmr update /src/App.jsx, /src/styles.css
+11:30:56 [vite] (client) hmr invalidate /src/App.jsx Could not Fast Refresh ("getNextLocale" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+11:30:56 [vite] (client) page reload src/App.jsx
+11:32:01 [vite] (client) hmr update /src/pages/CompanyPage.jsx, /src/styles.css
+11:33:02 [vite] (client) hmr update /src/pages/CompanyPage.jsx, /src/styles.css
+11:34:04 [vite] (client) hmr update /src/styles.css
+11:34:27 [vite] (client) hmr update /src/styles.css
+13:38:55 [vite] (client) hmr update /src/styles.css
+13:39:43 [vite] (client) hmr update /src/styles.css
+13:40:56 [vite] (client) hmr update /src/styles.css
+13:52:07 [vite] (client) hmr update /src/styles.css
+13:52:53 [vite] (client) hmr update /src/pages/HomePage.jsx, /src/styles.css
+13:53:30 [vite] (client) hmr update /src/pages/HomePage.jsx, /src/styles.css
+13:53:47 [vite] (client) hmr update /src/styles.css
+13:56:00 [vite] (client) hmr update /src/styles.css
+13:57:06 [vite] (client) hmr update /src/styles.css
+13:57:06 [vite] (client) hmr update /src/styles.css
+13:57:45 [vite] (client) hmr update /src/pages/CompanyPage.jsx, /src/styles.css
+13:57:46 [vite] (client) hmr update /src/styles.css
+14:13:07 [vite] (client) hmr update /src/styles.css
+14:13:46 [vite] (client) hmr update /src/styles.css
+14:14:40 [vite] (client) hmr update /src/styles.css
+14:15:20 [vite] (client) hmr update /src/styles.css
+14:17:19 [vite] (client) hmr update /src/styles.css
+14:17:52 [vite] (client) hmr update /src/pages/HomePage.jsx, /src/styles.css
+14:26:37 [vite] (client) hmr update /src/styles.css
+14:28:04 [vite] (client) hmr update /src/pages/HomePage.jsx, /src/styles.css
+14:28:24 [vite] (client) hmr update /src/styles.css
+14:32:57 [vite] (client) hmr update /src/styles.css
+14:35:42 [vite] (client) hmr update /src/styles.css

@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@source "../../index.html";
+
+@theme {
+  --color-brand-navy: #061d35;
+  --color-brand-deep: #092c50;
+  --color-brand-blue: #0b5fae;
+  --color-brand-sky: #2d91d0;
+  --color-brand-orange: #f59e0b;
+  --shadow-float: 0 24px 70px rgba(3, 18, 35, 0.22);
+}

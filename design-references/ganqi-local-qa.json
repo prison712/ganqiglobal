@@ -1,0 +1,81 @@
+{
+  "consoleErrors": [],
+  "routes": {
+    "/about": {
+      "status": 200,
+      "title": "关于赣企科技集团",
+      "consoleErrors": []
+    },
+    "/business": {
+      "status": 200,
+      "title": "业务体系",
+      "consoleErrors": []
+    },
+    "/strategy": {
+      "status": 200,
+      "title": "北斗七星战略模型",
+      "consoleErrors": []
+    },
+    "/companies": {
+      "status": 200,
+      "title": "旗下企业",
+      "consoleErrors": []
+    },
+    "/global": {
+      "status": 200,
+      "title": "全球网络",
+      "consoleErrors": []
+    },
+    "/news": {
+      "status": 200,
+      "title": "新闻中心",
+      "consoleErrors": []
+    },
+    "/contact": {
+      "status": 200,
+      "title": "联系我们",
+      "consoleErrors": []
+    },
+    "/companies/enterprise-services": {
+      "status": 200,
+      "title": "陪伴企业稳健成长，夯实出海经营基础",
+      "consoleErrors": []
+    },
+    "/companies/education": {
+      "status": 200,
+      "title": "连接产业、教育与国际人才交流",
+      "consoleErrors": []
+    }
+  },
+  "interactions": {
+    "mobileMenu": true,
+    "invalidPhone": true
+  },
+  "desktop": {
+    "width": 1440,
+    "height": 1000,
+    "pageHeight": 7561,
+    "horizontalOverflow": false,
+    "homeSections": [
+      "hero",
+      "group-intro",
+      "pillars",
+      "capabilities",
+      "exhibition",
+      "strategy",
+      "companies",
+      "global",
+      "partners",
+      "news",
+      "cooperation",
+      "footer"
+    ],
+    "anchorLinks": []
+  },
+  "mobile": {
+    "width": 390,
+    "height": 844,
+    "pageHeight": 11530,
+    "horizontalOverflow": false
+  }
+}

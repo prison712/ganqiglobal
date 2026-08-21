@@ -1,0 +1,122 @@
+{
+  "sites": {
+    "group": {
+      "title": "赣企出海｜赣企科技集团官方网站",
+      "width": 1440,
+      "pageHeight": 4022,
+      "horizontalOverflow": false,
+      "friendLinks": [],
+      "sections": [
+        "hero",
+        "group-intro",
+        "pillars",
+        "news",
+        "cooperation",
+        "footer"
+      ],
+      "status": 200,
+      "consoleErrors": []
+    },
+    "enterprise": {
+      "title": "赣企出海｜赣企科技集团官方网站",
+      "width": 1440,
+      "pageHeight": 5930,
+      "horizontalOverflow": false,
+      "friendLinks": [
+        "赣企科技集团官网↗",
+        "赣企出海国际会展↗",
+        "赣教出海国际教育↗"
+      ],
+      "sections": [
+        "hero",
+        "services",
+        "advantages",
+        "process",
+        "projects",
+        "faq",
+        "contact",
+        "footer"
+      ],
+      "status": 200,
+      "consoleErrors": []
+    },
+    "education": {
+      "title": "赣企出海｜赣企科技集团官方网站",
+      "width": 1440,
+      "pageHeight": 6756,
+      "horizontalOverflow": false,
+      "friendLinks": [
+        "赣企科技集团官网↗",
+        "赣企出海国际会展↗",
+        "赣企出海创业服务↗"
+      ],
+      "sections": [
+        "hero",
+        "services",
+        "advantages",
+        "process",
+        "projects",
+        "faq",
+        "contact",
+        "footer"
+      ],
+      "status": 200,
+      "consoleErrors": []
+    },
+    "exhibition": {
+      "title": "赣企出海国际会展｜全球展会一站式服务",
+      "width": 1440,
+      "pageHeight": 6507,
+      "horizontalOverflow": false,
+      "friendLinks": [
+        "赣企科技集团官网",
+        "赣企出海创业服务",
+        "赣教出海国际教育",
+        "返回集团首页 →"
+      ],
+      "sections": [
+        "hero",
+        "search",
+        "services",
+        "matrix",
+        "process",
+        "cases",
+        "advantages",
+        "faq",
+        "inquiry",
+        "footer"
+      ],
+      "status": 200,
+      "consoleErrors": []
+    },
+    "groupMobile": {
+      "width": 390,
+      "pageHeight": 7460,
+      "horizontalOverflow": false
+    },
+    "enterpriseMobile": {
+      "width": 390,
+      "pageHeight": 8894,
+      "horizontalOverflow": false
+    },
+    "educationMobile": {
+      "width": 390,
+      "pageHeight": 9367,
+      "horizontalOverflow": false
+    },
+    "exhibitionMobile": {
+      "width": 390,
+      "pageHeight": 10453,
+      "horizontalOverflow": false
+    }
+  },
+  "interactions": {
+    "groupBusinessCards": 5,
+    "groupMoreBusinessHref": "/business",
+    "enterpriseForm": true,
+    "educationForm": true,
+    "exhibitionVisibleCards": 1,
+    "exhibitionSearchStatus": "已为您筛选出 1 个参展方向。",
+    "exhibitionInquiry": "表单为前端展示，信息尚未发送；正式上线时可接入集团指定接口。"
+  }
+}
